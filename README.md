@@ -1,14 +1,14 @@
 # MystanCodeProjects
 - ## **stanCodeProjects**
   - ### **DataProcessing**
-    - **BabyNameSearch** *[DemoClip!]*()
+    - **BabyNameSearch** *[DemoClip!]()*
       - `babygraphics.py`: SC101 Baby Names Project graphics presentation.
       - `babygraphicsgui.py`: The GUI for the Baby Names project.
       - `babynames.py`: SC101 Baby Names Project, the main script for the Baby Names project.
     - `webcrawler.py` *[DemoClip!]*(): Script that collects data from various decades of baby names.
   
   - ### **Games**
-    - **BreakoutBasic** *[DemoClip!]*(https://drive.google.com/file/d/1tnsSPAY_29t5qm_rGkS_MiO6P-Z6yHSP/view?usp=drive_link)
+    - **BreakoutBasic** *[DemoClip!]*(https://drive.google.com/file/d/1tnsSPAY_29t5qm_rGkS_MiO6P-Z6yHSP/view?usp=drive_link)*
       - `breakout_game.py`: Your Breakout game script.
       - `breakoutgraphics.py`: The Breakout graphics class.
     - `hangman.py` *[DemoClip!]*(https://drive.google.com/file/d/11IDZAwsf8LwOupaW3tnS1uBHZgglcUee/view?usp=drive_link): Hangman game implementation.
