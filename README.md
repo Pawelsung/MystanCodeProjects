@@ -2,7 +2,7 @@
 - **stanCodeProjects**
   - **DataProcessing**
     - **BabyNameSearch**
-      - `babygraphics.py`: SC101 Baby Names Project graphics presentation.
+      - `babygraphics.py`: SC101 Baby Names Project graphics presentation.https://github.com/Pawelsung/MystanCodeProjects/blob/main/README.md
       - `babygraphicsgui.py`: The GUI for the Baby Names project.
       - `babynames.py`: SC101 Baby Names Project, the main script for the Baby Names project.
     - `webcrawler.py`: Script that collects data from various decades of baby names.
