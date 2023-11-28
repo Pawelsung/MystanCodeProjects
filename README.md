@@ -24,6 +24,7 @@
   - ### **MiniProjects**
     - `bouncing_ball.py` *[DemoClip!](https://drive.google.com/file/d/17rHhXWY544wkw9NhX86aSn2UijllCBN6/view?usp=drive_link)*: Your duplicated bouncing ball script.
     - `caesar.py` *[DemoClip!](https://drive.google.com/file/d/1c9NEFbaT4jMk3Eno44VCAzHtGtdw2l8a/view?usp=drive_link)*: Contains code related to the Caesar cipher, a simple encryption technique.
+    - `class_reviews.py` *[DemoClip!](https://drive.google.com/file/d/16GUoUWOL7t_ZE-Ex5MWGkK8qVzlmoRhI/view?usp=drive_link)*: Script that calculates and prints the max, min, and average scores for classes SC001 and SC101.
     - `coin_flip_runs.py` *[DemoClip!](https://drive.google.com/file/d/19_rHrdO6hpEEYtms_y7EpKFfQpWMFqzg/view?usp=drive_link)*: Coin flip script.
     - `similarity.py` *[DemoClip!](https://drive.google.com/file/d/1T6NnB-fn-IDBAxPEin6V8kszT8xMkd9z/view?usp=drive_link)*: Involves comparing the similarity between two pieces of text or data.
     - `weather_master.py` *[DemoClip!](https://drive.google.com/file/d/165sKfN44XcT3AlAr2MbZ1CuS4D04TR7O/view?usp=drive_link)*: Script for managing weather information.
