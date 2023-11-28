@@ -14,7 +14,8 @@
     - `hangman.py`: Hangman game implementation.
   
   - ### **ImageProcessing**
-    - `blur.py`: Script for displaying the original and blurred versions of the "smiley-face.png" image.
+    - `blur.py` [Demo Clip](https://drive.google.com/file/d/1jjZ4kDthXh6P7YuenXQnfn5WFt4dSGdV/view?usp=drive_link)
+: Script for displaying the original and blurred versions of the "smiley-face.png" image.
     - `fire.py`: Script for highlighting areas recognized as fire.
     - `mirror_lake.py`: Script for creating a mirror lake vibe by placing an inverse image below the original one.
     - `PhotoshopReplaceBackground.py`: Script for creating a photoshopped image with a replaced background.
