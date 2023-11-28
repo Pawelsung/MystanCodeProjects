@@ -2,10 +2,10 @@
 - **stanCodeProjects**
   - **DataProcessing**
     - **BabyNameSearch**
-      - `babygraphics.py`: SC101 Baby Names Project, defines the functions needed to create the GUI for the Baby Names project.
-      - `babygraphicsgui.py`: (Assumed description) Additional script related to the GUI for the Baby Names project.
-      - `babynames.py`: SC101 Baby Names Project, main script for the Baby Names project.
-    - `webcrawler.py`: Script that collects more data from various decades of baby names.
+      - `babygraphics.py`: SC101 Baby Names Project graphics presentation.
+      - `babygraphicsgui.py`: The GUI for the Baby Names project.
+      - `babynames.py`: SC101 Baby Names Project, the main script for the Baby Names project.
+    - `webcrawler.py`: Script that collects data from various decades of baby names.
   
   - **Games**
     - **BreakoutBasic**
@@ -15,15 +15,15 @@
   
   - **ImageProcessing**
     - `blur.py`: Script for displaying the original and blurred versions of the "smiley-face.png" image.
-    - `fire.py`: Script for highlighting areas recognized as fire in an image.
+    - `fire.py`: Script for highlighting areas recognized as fire.
     - `mirror_lake.py`: Script for creating a mirror lake vibe by placing an inverse image below the original one.
     - `PhotoshopReplaceBackground.py`: Script for creating a photoshopped image with a replaced background.
-    - `stanCodoshop.py`: Image processing script for finding the pixel with the smallest "color distance."
+    - `stanCodoshop.py`: Image processing script for removing objects from images and creating a image with only background.
   
   - **MiniProjects**
     - `bouncing_ball.py`: Your duplicated bouncing ball script.
     - `caesar.py`: Contains code related to the Caesar cipher, a simple encryption technique.
-    - `coin_flip_runs.py`: Your missing coin flip script.
+    - `coin_flip_runs.py`: Coin flip script.
     - `similarity.py`: Involves comparing the similarity between two pieces of text or data.
     - `weather_master.py`: Script for managing weather information.
   
@@ -44,4 +44,4 @@
       - `draw_line.py`: Creates lines on an instance of the GWindow class with a starting circle.
       - `my_drawing.py`: Your drawing script, showcasing the power of Jerry in assisting with learning code.
     - **PatternPrinting**
-      - `name_sq.py`: (Assumed name) Script for printing patterns.
+      - `name_sq.py`: Script for printing patterns.
