@@ -18,7 +18,7 @@
     - `fire.py`: Script for highlighting areas recognized as fire.
     - `mirror_lake.py`: Script for creating a mirror lake vibe by placing an inverse image below the original one.
     - `PhotoshopReplaceBackground.py`: Script for creating a photoshopped image with a replaced background.
-    - `stanCodoshop.py`: Image processing script for removing objects from images and creating a image with only background.
+    - `stanCodoshop.py`: Image processing script for removing objects from images and creating an image with only a background.
   
   - ### **MiniProjects**
     - `bouncing_ball.py`: Your duplicated bouncing ball script.
