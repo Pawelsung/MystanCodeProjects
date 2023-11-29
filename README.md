@@ -30,13 +30,13 @@
     - [`weather_master`](https://github.com/Pawelsung/MystanCodeProjects/blob/main/stanCode_Projects/MiniProjects/weather_master.py) *[DemoClip!](https://drive.google.com/file/d/165sKfN44XcT3AlAr2MbZ1CuS4D04TR7O/view?usp=drive_link)*: Script for managing weather information.
   
   - ### **NumberCalculation**
-    - `factorial.py` *[DemoClip!](https://drive.google.com/file/d/1hUqiU5MyWKAVTB_aN8lLxpK4ddZOZQr5/view?usp=drive_link)*: Script for calculating factorials.
-    - `hailstone.py` *[DemoClip!](https://drive.google.com/file/d/1i3n0xISR2avP-1t4BWDA72IschbKn_tp/view?usp=drive_link*): Script related to the hailstone sequence.
-    - `narcissistic_checker.py` *[DemoClip!](https://drive.google.com/file/d/1cLLUGKLjN74wtbS-8Zw7dnrt0l8zz-bD/view?usp=drive_link)*: Checks for narcissistic numbers.
-    - `number_checker.py` *[DemoClip!](https://drive.google.com/file/d/11XqN3PZD41frGEgT4nq8O2EBKX_CFFmC/view?usp=drive_link)*: Involves checking properties of numbers.
-    - `prime_checker.py` *[DemoClip!](https://drive.google.com/file/d/1OpRcTw-jA8Gz9LFAoe5IoPpssufFqNpq/view?usp=drive_link)*: Checks whether a number is prime.
-    - `quadratic_solver.py` *[DemoClip!](https://drive.google.com/file/d/1EpG_Ohc0h--PVBpUeu2QIjR-ofRT3E7P/view?usp=drive_link)*: Solves quadratic equations.
-    - `triangular_checker.py` *[DemoClip!](https://drive.google.com/file/d/1Gbm8cVB5IUSANLG8fiIKocoO53VKFxAj/view?usp=drive_link)*: Involves checking properties of triangular numbers.
+    - [`factorial`]() *[DemoClip!](https://drive.google.com/file/d/1hUqiU5MyWKAVTB_aN8lLxpK4ddZOZQr5/view?usp=drive_link)*: Script for calculating factorials.
+    - [`hailstone`]() *[DemoClip!](https://drive.google.com/file/d/1i3n0xISR2avP-1t4BWDA72IschbKn_tp/view?usp=drive_link*): Script related to the hailstone sequence.
+    - [`narcissistic_checker`]() *[DemoClip!](https://drive.google.com/file/d/1cLLUGKLjN74wtbS-8Zw7dnrt0l8zz-bD/view?usp=drive_link)*: Checks for narcissistic numbers.
+    - [`number_checker`]() *[DemoClip!](https://drive.google.com/file/d/11XqN3PZD41frGEgT4nq8O2EBKX_CFFmC/view?usp=drive_link)*: Involves checking properties of numbers.
+    - [`prime_checker`]() *[DemoClip!](https://drive.google.com/file/d/1OpRcTw-jA8Gz9LFAoe5IoPpssufFqNpq/view?usp=drive_link)*: Checks whether a number is prime.
+    - [`quadratic_solver`]() *[DemoClip!](https://drive.google.com/file/d/1EpG_Ohc0h--PVBpUeu2QIjR-ofRT3E7P/view?usp=drive_link)*: Solves quadratic equations.
+    - [`triangular_checker`]() *[DemoClip!](https://drive.google.com/file/d/1Gbm8cVB5IUSANLG8fiIKocoO53VKFxAj/view?usp=drive_link)*: Involves checking properties of triangular numbers.
 
   - ### **VisualArt**
     - **ASCIIArt**
