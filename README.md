@@ -40,10 +40,10 @@
 
   - ### **VisualArt**
     - **ASCIIArt**
-      - `pick_your_starter_pokemon.py` *[DemoClip!](https://drive.google.com/file/d/1oDbwfee-ZiG3Ue2JyLiFQntpwI8PtHir/view?usp=drive_link)*: Script for displaying ASCII art of a selected Pokemon starter.
-      - `rocket.py` *[DemoClip!](https://drive.google.com/file/d/1LwJi34iVHo8puAm0G3mJOn26yxUx6rTf/view?usp=drive_link)*: Generates ASCII art of a rocket.
+      - [`pick_your_starter_pokemon`](https://github.com/Pawelsung/MystanCodeProjects/blob/main/stanCode_Projects/VisualArt/ASCIIArt/pick_your_starter_pokemon.py) *[DemoClip!](https://drive.google.com/file/d/1oDbwfee-ZiG3Ue2JyLiFQntpwI8PtHir/view?usp=drive_link)*: Script for displaying ASCII art of a selected Pokemon starter.
+      - [`rocket`](https://github.com/Pawelsung/MystanCodeProjects/blob/main/stanCode_Projects/VisualArt/ASCIIArt/rocket.py) *[DemoClip!](https://drive.google.com/file/d/1LwJi34iVHo8puAm0G3mJOn26yxUx6rTf/view?usp=drive_link)*: Generates ASCII art of a rocket.
     - **Drawing**
-      - `draw_line.py` *[DemoClip!](https://drive.google.com/file/d/1Idy8d-5jFB2YqO2MkEQl-q0oDklZQDaa/view?usp=drive_link)*: Creates lines on an instance of the GWindow class with a starting circle.
-      - `my_drawing.py` *[DemoClip!](https://drive.google.com/file/d/1lzbrrEtp4F2b6dmSeNffvp49Uh7A7h_a/view?usp=drive_link)*: Your drawing script, showcasing the power of Jerry in assisting with learning code.
+      - [`draw_line`](https://github.com/Pawelsung/MystanCodeProjects/blob/main/stanCode_Projects/VisualArt/Drawing/draw_line.py) *[DemoClip!](https://drive.google.com/file/d/1Idy8d-5jFB2YqO2MkEQl-q0oDklZQDaa/view?usp=drive_link)*: Creates lines on an instance of the GWindow class with a starting circle.
+      - [`my_drawing`](https://github.com/Pawelsung/MystanCodeProjects/blob/main/stanCode_Projects/VisualArt/Drawing/my_drawing.py) *[DemoClip!](https://drive.google.com/file/d/1lzbrrEtp4F2b6dmSeNffvp49Uh7A7h_a/view?usp=drive_link)*: Your drawing script, showcasing the power of Jerry in assisting with learning code.
     - **PatternPrinting**
-      - `name_sq.py` *[DemoClip!](https://drive.google.com/file/d/1tlUVhzBjm8OSmGu5m_BBqKMCBR4eZ_9U/view?usp=drive_link)*: Script for printing patterns.
+      - [`name_sq`](https://github.com/Pawelsung/MystanCodeProjects/blob/main/stanCode_Projects/VisualArt/PatternPrinting/name_sq.py) *[DemoClip!](https://drive.google.com/file/d/1tlUVhzBjm8OSmGu5m_BBqKMCBR4eZ_9U/view?usp=drive_link)*: Script for printing patterns.
