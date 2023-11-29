@@ -1,11 +1,11 @@
 # MystanCodeProjects
 - ## **stanCodeProjects** :+1:
   - ### **DataProcessing**
-    - [ ] - **BabyNameSearch** *[EMPTY!]()*
+    - [X] - **BabyNameSearch** *[EMPTY!](https://drive.google.com/file/d/13IoZBZQVwzCARvEiGVnebU2oOxf0EXyU/view?usp=drive_link)*
       - [`babygraphics.py`](https://github.com/Pawelsung/MystanCodeProjects/blob/main/stanCode_Projects/DataProcessing/BabyNameSearch/babygraphics.py): SC101 Baby Names Project graphics presentation.
       - `babygraphicsgui.py`: The GUI for the Baby Names project.
       - `babynames.py`: SC101 Baby Names Project, the main script for the Baby Names project.
-    - [ ] - `webcrawler.py` *[EMPTY!]()*: Script that collects data from various decades of baby names.
+    - [X] - `webcrawler.py` *[EMPTY!](https://drive.google.com/file/d/11rIFbB0T7araDVG7xi2RSyJaN7sdYAEA/view?usp=drive_link)*: Script that collects data from various decades of baby names.
   
   - ### **Games**
     - **BreakoutBasic** *[DemoClip!](https://drive.google.com/file/d/1tnsSPAY_29t5qm_rGkS_MiO6P-Z6yHSP/view?usp=drive_link)*
