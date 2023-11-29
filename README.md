@@ -14,12 +14,12 @@
     - [`hangman`](https://github.com/Pawelsung/MystanCodeProjects/blob/main/stanCode_Projects/Games/hangman.py) *[DemoClip!](https://drive.google.com/file/d/11IDZAwsf8LwOupaW3tnS1uBHZgglcUee/view?usp=drive_link)*: Hangman game implementation.
   
   - ### **ImageProcessing**
-    - [`blur.py`]() *[DemoClip!](https://drive.google.com/file/d/1jjZ4kDthXh6P7YuenXQnfn5WFt4dSGdV/view?usp=drive_link)*
+    - [`blur`](https://github.com/Pawelsung/MystanCodeProjects/blob/main/stanCode_Projects/ImageProcessing/blur.py) *[DemoClip!](https://drive.google.com/file/d/1jjZ4kDthXh6P7YuenXQnfn5WFt4dSGdV/view?usp=drive_link)*
 : Script for displaying the original and blurred versions of the "smiley-face.png" image.
-    - [`fire.py`]() *[DemoClip!](https://drive.google.com/file/d/1MNZ8rQJsD8XaN1GrIc4AxeGkbErh6gu-/view?usp=drive_link)*: Script for highlighting areas recognized as fire.
-    - [`mirror_lake.py`]() *[DemoClip!](https://drive.google.com/file/d/15YqSgct44GdwPxOVPlZxm2RKp5mpR1J9/view?usp=drive_link)*: Script for creating a mirror lake vibe by placing an inverse image below the original one.
-    - [`PhotoshopReplaceBackground.py`]() *[DemoClip!](https://drive.google.com/file/d/1KP8WryEWs3C7jPxJtercoHW23Q2MF19_/view?usp=drive_link)*: Script for creating a photoshopped image with a replaced background.
-    - [`stanCodoshop.py`]() *[DemoClip!]()*: Image processing script for removing objects from images and creating an image with only a background.
+    - [`fire`](https://github.com/Pawelsung/MystanCodeProjects/blob/main/stanCode_Projects/ImageProcessing/fire.py) *[DemoClip!](https://drive.google.com/file/d/1MNZ8rQJsD8XaN1GrIc4AxeGkbErh6gu-/view?usp=drive_link)*: Script for highlighting areas recognized as fire.
+    - [`mirror_lake`](https://github.com/Pawelsung/MystanCodeProjects/blob/main/stanCode_Projects/ImageProcessing/mirror_lake.py) *[DemoClip!](https://drive.google.com/file/d/15YqSgct44GdwPxOVPlZxm2RKp5mpR1J9/view?usp=drive_link)*: Script for creating a mirror lake vibe by placing an inverse image below the original one.
+    - [`PhotoshopReplaceBackground`](https://github.com/Pawelsung/MystanCodeProjects/blob/main/stanCode_Projects/ImageProcessing/PhotoshopReplaceBackground.py) *[DemoClip!](https://drive.google.com/file/d/1KP8WryEWs3C7jPxJtercoHW23Q2MF19_/view?usp=drive_link)*: Script for creating a photoshopped image with a replaced background.
+    - [`stanCodoshop`](https://github.com/Pawelsung/MystanCodeProjects/blob/main/stanCode_Projects/ImageProcessing/stanCodoshop.py) *[DemoClip!]()*: Image processing script for removing objects from images and creating an image with only a background.
   
   - ### **MiniProjects**
     - `bouncing_ball.py` *[DemoClip!](https://drive.google.com/file/d/17rHhXWY544wkw9NhX86aSn2UijllCBN6/view?usp=drive_link)*: Your duplicated bouncing ball script.
