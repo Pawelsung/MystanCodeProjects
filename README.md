@@ -10,8 +10,8 @@
   - ### **Games**
     - **BreakoutBasic** *[DemoClip!](https://drive.google.com/file/d/1tnsSPAY_29t5qm_rGkS_MiO6P-Z6yHSP/view?usp=drive_link)*
       - [`breakout_game`](https://github.com/Pawelsung/MystanCodeProjects/blob/main/stanCode_Projects/Games/BreakoutBasic/breakout.py): Your Breakout game script.
-      - [`breakoutgraphics`](): The Breakout graphics class.
-    - [`hangman`]() *[DemoClip!](https://drive.google.com/file/d/11IDZAwsf8LwOupaW3tnS1uBHZgglcUee/view?usp=drive_link)*: Hangman game implementation.
+      - [`breakoutgraphics`](https://github.com/Pawelsung/MystanCodeProjects/blob/main/stanCode_Projects/Games/BreakoutBasic/breakoutgraphics.py): The Breakout graphics class.
+    - [`hangman`](https://github.com/Pawelsung/MystanCodeProjects/blob/main/stanCode_Projects/Games/hangman.py) *[DemoClip!](https://drive.google.com/file/d/11IDZAwsf8LwOupaW3tnS1uBHZgglcUee/view?usp=drive_link)*: Hangman game implementation.
   
   - ### **ImageProcessing**
     - [`blur.py`]() *[DemoClip!](https://drive.google.com/file/d/1jjZ4kDthXh6P7YuenXQnfn5WFt4dSGdV/view?usp=drive_link)*
